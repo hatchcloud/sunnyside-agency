@@ -51,7 +51,7 @@ p {
 /** first section **/
 
 .first-section {
-    background-image: url('../dist/assets/images/desktop/image-header.jpg');
+    background-image: url('../docs/assets/images/desktop/image-header.jpg');
     background-position: center;
     background-size: cover;
     min-height: 60rem;
@@ -295,16 +295,16 @@ p {
 }
 
 .frame-egg{
-    background-image: url('../dist/assets/images/desktop/image-transform.jpg');
+    background-image: url('../docs/assets/images/desktop/image-transform.jpg');
 }
 .frame-stand-out{
-    background-image: url('../dist/assets/images/desktop/image-stand-out.jpg');
+    background-image: url('../docs/assets/images/desktop/image-stand-out.jpg');
 }
 .frame-cherry{
-    background-image: url('../dist/assets/images/desktop/image-graphic-design.jpg');
+    background-image: url('../docs/assets/images/desktop/image-graphic-design.jpg');
 }
 .frame-photography{
-    background-image: url('../dist/assets/images/desktop/image-photography.jpg');
+    background-image: url('../docs/assets/images/desktop/image-photography.jpg');
 }
 
 .service-title{
@@ -450,16 +450,16 @@ p {
 }
 
 .service-img-1{
-    background-image: url('../dist/assets/images/desktop/image-gallery-milkbottles.jpg');
+    background-image: url('../docs/assets/images/desktop/image-gallery-milkbottles.jpg');
 }
 .service-img-2{
-    background-image: url('../dist/assets/images/desktop/image-gallery-orange.jpg');
+    background-image: url('../docs/assets/images/desktop/image-gallery-orange.jpg');
 }
 .service-img-3{
-    background-image: url('../dist/assets/images/desktop/image-gallery-cone.jpg');
+    background-image: url('../docs/assets/images/desktop/image-gallery-cone.jpg');
 }
 .service-img-4{
-    background-image: url('../dist/assets/images/desktop/image-gallery-sugarcubes.jpg');
+    background-image: url('../docs/assets/images/desktop/image-gallery-sugarcubes.jpg');
 }
 
 
@@ -491,11 +491,11 @@ p {
 }
 
 .icon-logo{
-    background-image: url('../dist/assets/images/logo-green.svg');
+    background-image: url('../docs/assets/images/logo-green.svg');
 }
 
 .icon-logo:hover,:focus{
-    background-image: url('../dist/assets/images/logo.svg');
+    background-image: url('../docs/assets/images/logo.svg');
 }
 .nav-footer{
     display: flex;
@@ -542,28 +542,28 @@ p {
 }
 
 .social-1{
-    background-image: url('../dist/assets/images/icon-facebook.svg');
+    background-image: url('../docs/assets/images/icon-facebook.svg');
 }
 .social-1:hover{
-    background-image: url('../dist/assets/images/icon-facebook-white.svg');
+    background-image: url('../docs/assets/images/icon-facebook-white.svg');
 }
 .social-2{
-    background-image: url('../dist/assets/images/icon-instagram.svg');
+    background-image: url('../docs/assets/images/icon-instagram.svg');
 }
 .social-2:hover{
-    background-image: url('../dist/assets/images/icon-instagram-white.svg');
+    background-image: url('../docs/assets/images/icon-instagram-white.svg');
 }
 .social-3{
-    background-image: url('../dist/assets/images/icon-twitter.svg');
+    background-image: url('../docs/assets/images/icon-twitter.svg');
 }
 .social-3:hover{
-    background-image: url('../dist/assets/images/icon-twitter-white.svg');
+    background-image: url('../docs/assets/images/icon-twitter-white.svg');
 }
 .social-4{
-    background-image: url('../dist/assets/images/icon-pinterest.svg');
+    background-image: url('../docs/assets/images/icon-pinterest.svg');
 }
 .social-4:hover{
-    background-image: url('../dist/assets/images/icon-pinterest-white.svg');
+    background-image: url('../docs/assets/images/icon-pinterest-white.svg');
 }
 
 .learn-more{
@@ -572,5 +572,7 @@ p {
     position: relative;
     cursor: pointer;
 }
+
+
 
 
