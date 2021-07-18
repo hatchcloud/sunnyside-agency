@@ -1,4 +1,4 @@
-# Webpack Starter
+# Sunnyside agency landing page
 
 Este es el template para crear apps utilizando Webpack
 
