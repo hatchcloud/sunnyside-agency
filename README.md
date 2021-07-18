@@ -1,6 +1,6 @@
 # Sunnyside agency landing page
 
-Este es el template para crear apps utilizando Webpack
+Sunnyside agency landing page Frontend Mentor
 
 ### Notas 
 Recuerden reconstruir los módulos de Node
